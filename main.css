@@ -1,0 +1,22 @@
+#birthday, #child-birthday, #christmas {
+    padding: 20px;
+    margin: 20px;
+    width: 200px;
+    height: 300px;
+    float: left;
+    box-shadow: 1.5px 4px black;
+}
+
+#birthday {
+    background-color: red;
+
+}
+
+#child-birthday {
+    background-color: yellow;
+}
+
+#christmas {
+    background: linear-gradient(red,green);
+}
+
